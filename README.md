@@ -1,2 +1,3 @@
 # hello-world
-Made for the tutorial
+
+Hi I'm Dan Ray and I like codewars
